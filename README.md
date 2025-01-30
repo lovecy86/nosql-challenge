@@ -1,6 +1,5 @@
 # nosql-challenge
 
-# nosql-challenge
 # UK Food Hygiene Data Analysis
 ## Part 1: Database & Jupyter Notebook Setup
 
